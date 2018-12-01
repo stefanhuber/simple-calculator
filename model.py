@@ -4,3 +4,4 @@ class Model:
 
     def calc_celsius(self, fahrenheit):
         return 32 + (1.8 * fahrenheit)
+
